@@ -7,4 +7,4 @@ for(int i=0;i<3;i++)
 ans=ans+a[i]+b[i]
 }
 print(ans)
-
+print("Changes for stash")
